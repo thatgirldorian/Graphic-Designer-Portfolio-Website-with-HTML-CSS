@@ -2,7 +2,7 @@
 
 <h3>Function & Description:</h3>
 
-This is a simple one-pager I made for a graphic designer portfolio with HTML and CSS. It also has a way to capture
+This is a simple one-pager I made for a graphic designer portfolio with HTML and CSS. It also has a way to capture emails.
 
 <h3>Technology Used:</h3>
 
